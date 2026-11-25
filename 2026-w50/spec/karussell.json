@@ -1,0 +1,42 @@
+{
+ "cover": {
+  "photo": "assets/portrait.png",
+  "yb": 0.15,
+  "kicker": "Bevor wir über Produkte reden:",
+  "title": "Die 5 Fragen, die vor jedem Finanzprodukt kommen sollten.",
+  "y": 900
+ },
+ "items": [
+  {
+   "t": "Was soll in 5 Jahren anders sein als heute?",
+   "s": "Ohne Ziel ist jede Lösung beliebig.",
+   "fig": "nachdenklich"
+  },
+  {
+   "t": "Wie viel bleibt Ende Monat wirklich übrig?",
+   "s": "Nicht geschätzt. Nachgeschaut.",
+   "fig": "smartphone"
+  },
+  {
+   "t": "Was passiert, wenn du 6 Monate nicht arbeiten kannst?",
+   "s": "Die Frage, die fast alle verdrängen.",
+   "fig": "ueberrascht"
+  },
+  {
+   "t": "Kennst du deinen AHV-Auszug und deinen PK-Ausweis?",
+   "s": "Beides ist für dich kostenlos einsehbar.",
+   "fig": "blazer_dokument"
+  },
+  {
+   "t": "Was hast du schon, und weisst du, warum?",
+   "s": "Viele haben Verträge, die sie nie wirklich gewählt haben.",
+   "fig": "schulterzucken"
+  }
+ ],
+ "end": {
+  "photo": "assets/portrait.png",
+  "title": "Erst Klarheit, dann Lösungen.",
+  "sub": "Welche Frage kannst du nicht sofort beantworten? ↓",
+  "cta": "Den kostenlosen 3-Minuten-Check findest du über den Link in meiner Bio."
+ }
+}

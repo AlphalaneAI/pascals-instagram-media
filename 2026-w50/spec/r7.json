@@ -1,0 +1,49 @@
+{
+ "bg": "assets/portrait.png",
+ "grad": false,
+ "blur": 8,
+ "dim": 0.38,
+ "cy": 860,
+ "hy": 1430,
+ "music": "calm",
+ "label": "Ausreden-Übersetzer #3",
+ "slides": [
+  {
+   "t": "Der beliebteste Satz im Dezember:",
+   "hl": [
+    "im Dezember:"
+   ],
+   "size": 82,
+   "d": 2.8
+  },
+  {
+   "t": "«Ich kümmere mich nächstes Jahr darum.»",
+   "size": 80
+  },
+  {
+   "t": "Übersetzt heisst das oft:",
+   "sub": "«Ich habe Angst vor dem, was ich sehe, wenn ich hinschaue.»",
+   "size": 72
+  },
+  {
+   "t": "Oft ist es weniger schlimm als befürchtet.",
+   "sub": "Und das Gefühl danach ist besser als das Hoffen davor.",
+   "size": 72
+  },
+  {
+   "t": "Du musst im Dezember nichts lösen.",
+   "sub": "Nur einmal hinschauen.",
+   "hl": [
+    "hinschauen."
+   ],
+   "size": 76
+  },
+  {
+   "t": "Welche Ausrede soll ich als Nächstes übersetzen? ↓",
+   "sub": "Folg mir für Teil 4.",
+   "size": 70,
+   "note": "Allgemeine Information, keine Anlageberatung.",
+   "d": 3.5
+  }
+ ]
+}

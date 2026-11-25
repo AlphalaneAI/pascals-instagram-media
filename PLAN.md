@@ -25,3 +25,8 @@ Serien: «Ausreden-Übersetzer», «Was die Bank dir nicht erklärt» (Fortsetzu
 
 ## Ziele
 10k Follower Ende 2026 unrealistisch (Start 2'244 am 25.11.2026). 100k Ende 2027 ambitioniert.
+
+## Wochenroutine
+- Jeden Montagabend prüfen: Ist für die nächsten 7 Tage Content fertig und freigegeben? Wenn nicht: nächste Woche erstellen (tools/reel.py, tools/carousel2.py, tools/story.py, Specs in JJJJ-wKW/spec/), in JJJJ-wKW/ ablegen, pushen und Pascal gesammelt zur Freigabe schicken. Erst nach seinem OK die Veröffentlichungen einplanen.
+- Woche 2: 2026-w50/ (1.–7.12.), Plan-Tabelle in 2026-w50/bildunterschriften.md.
+- Erklärfigur-Posen: assets/figuren/pose_*.png (in Specs als "fig": "<name>").

@@ -1,0 +1,55 @@
+{
+ "bg": "assets/cafe.png",
+ "grad": false,
+ "blur": 8,
+ "dim": 0.38,
+ "cy": 860,
+ "hy": 1430,
+ "music": "calm",
+ "label": "Ausreden-Übersetzer #2",
+ "slides": [
+  {
+   "t": "Zu wenig Geld zum Sparen?",
+   "sub": "Vielleicht steckt etwas anderes dahinter.",
+   "hl": [
+    "zum Sparen?"
+   ],
+   "size": 84,
+   "d": 3.2
+  },
+  {
+   "t": "«Ich habe zu wenig Geld zum Sparen.»",
+   "size": 80
+  },
+  {
+   "t": "Übersetzt heisst das oft:",
+   "sub": "«Ich habe Angst, dass es sowieso nicht reicht.»",
+   "size": 72
+  },
+  {
+   "t": "Darum fängt man gar nicht erst an.",
+   "sub": "Verständlich. Aber teuer.",
+   "size": 76
+  },
+  {
+   "t": "Es geht nicht um den grossen Betrag.",
+   "sub": "Es geht darum, dass überhaupt etwas zur Seite geht. Jeden Monat. Automatisch.",
+   "hl": [
+    "grossen Betrag."
+   ],
+   "size": 72
+  },
+  {
+   "t": "Erster Schritt:",
+   "sub": "Schau dir an, wohin dein Geld heute fliesst. Ohne dich dafür zu verurteilen.",
+   "size": 80
+  },
+  {
+   "t": "Welche Ausrede kennst du von dir? ↓",
+   "sub": "Folg mir für Teil 3.",
+   "size": 72,
+   "note": "Allgemeine Information, keine Anlageberatung.",
+   "d": 3.5
+  }
+ ]
+}
