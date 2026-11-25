@@ -7,7 +7,7 @@
 - Versprechen: Papa aus der Schweiz teilt, was bei Geld, Gesundheit und Familie wirklich hilft. Jeder Beitrag hat eine Erkenntnis.
 
 ## Säulen
-35 % Geld verständlich · 20 % Gesundheit & Training · 20 % Papa- & Unternehmer-Leben · 25 % KI im Alltag (ab KW 51 auf Pascals Wunsch gestärkt: praktische KI-Hilfe für den Alltag, konkrete Prompts)
+35 % Geld verständlich · 20 % Gesundheit & Training · 20 % Papa- & Unternehmer-Leben · 25 % KI im Alltag (ab KW 51 auf Pascals Wunsch gestärkt: praktische KI-Hilfe, konkrete Prompts. KI ist nicht das Hauptthema, kommt aber öfter vor, gern auch als Werkzeug innerhalb von Geld-, Gesundheits- und Familien-Beiträgen)
 Serien: «Ausreden-Übersetzer», «Was die Bank dir nicht erklärt» (Fortsetzung des 428k-Reels vom 31.3.2025), «Gym × Geld», «Was ich mit 31 weiss», «Tagsüber Papa, abends Entwickler».
 
 ## Regeln
