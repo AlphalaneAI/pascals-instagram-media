@@ -11,7 +11,7 @@
 Serien: «Ausreden-Übersetzer», «Was die Bank dir nicht erklärt» (Fortsetzung des 428k-Reels vom 31.3.2025), «Gym × Geld», «Was ich mit 31 weiss», «Tagsüber Papa, abends Entwickler».
 
 ## Regeln
-- Jeder Beitrag mit Teilen-Aufruf (Reel-Schluss oder Caption), z. B. «Schick das jemandem, der …».
+- Teilen-Aufruf («Schick das jemandem, der …») nur wo er natürlich passt, nicht in jedem Beitrag.
 - Reels: als Test-Reel (trial_params SS_PERFORMANCE), share_to_feed=false. Nie im Profilraster.
 - Karussells: im Raster, erstes Bild immer Pascal (echtes Foto) oder Persönliches; Folgebilder Text/Erklärfigur. Ohne passendes Foto: kein Karussell.
 - Reel-Stil: Ausreden-Übersetzer mit komplett unscharfem Porträt (grad=false, blur 8); andere persönliche Reels Porträt oben scharf, Text unten.

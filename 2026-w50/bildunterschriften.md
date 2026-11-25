@@ -67,8 +67,6 @@ Meine Trainings trage ich übrigens im @krafttagebuch ein, das geht direkt nach 
 
 Welche Regel fällt dir am schwersten? 👇
 
-📤 Schick das jemandem, der das hören sollte.
-
 #krafttraining #trainingsplan #fitnessalltag #papaleben #krafttagebuch
 
 ---
@@ -117,8 +115,6 @@ KI ersetzt nicht das Denken. Sie spart dir die Zeit dafür.
 
 Welche Aufgabe würdest du abgeben? 👇
 
-📤 Schick das jemandem, der das hören sollte.
-
 #ki #chatgpt #familienalltag #papaleben #produktivität
 
 ---
@@ -151,8 +147,6 @@ Geniess das Essen und plan das nächste Training gleich ein. Im @krafttagebuch g
 
 Wie hältst du es mit Training über die Festtage? 👇
 
-📤 Schick das jemandem, der das hören sollte.
-
 #festtage #krafttraining #ernährung #fitnessalltag #krafttagebuch
 
 ---
@@ -164,7 +158,5 @@ Bevor wir über Produkte reden, braucht es Klarheit. Das sind die 5 Fragen, die 
 Welche davon kannst du nicht sofort beantworten? Schreib mir die Nummer 👇
 
 Wenn du wissen willst, wo du stehst: Der kostenlose 3-Minuten-Check ist im Link in meiner Bio.
-
-📤 Schick das jemandem, der das hören sollte.
 
 #finanzberatung #vorsorge #finanzenschweiz #bern #freiburg
