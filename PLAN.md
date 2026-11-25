@@ -7,10 +7,11 @@
 - Versprechen: Papa aus der Schweiz teilt, was bei Geld, Gesundheit und Familie wirklich hilft. Jeder Beitrag hat eine Erkenntnis.
 
 ## Säulen
-40 % Geld verständlich · 25 % Gesundheit & Training · 20 % Papa- & Unternehmer-Leben · 15 % KI im Alltag
+35 % Geld verständlich · 20 % Gesundheit & Training · 20 % Papa- & Unternehmer-Leben · 25 % KI im Alltag (ab KW 51 auf Pascals Wunsch gestärkt: praktische KI-Hilfe für den Alltag, konkrete Prompts)
 Serien: «Ausreden-Übersetzer», «Was die Bank dir nicht erklärt» (Fortsetzung des 428k-Reels vom 31.3.2025), «Gym × Geld», «Was ich mit 31 weiss», «Tagsüber Papa, abends Entwickler».
 
 ## Regeln
+- Jeder Beitrag mit Teilen-Aufruf (Reel-Schluss oder Caption), z. B. «Schick das jemandem, der …».
 - Reels: als Test-Reel (trial_params SS_PERFORMANCE), share_to_feed=false. Nie im Profilraster.
 - Karussells: im Raster, erstes Bild immer Pascal (echtes Foto) oder Persönliches; Folgebilder Text/Erklärfigur. Ohne passendes Foto: kein Karussell.
 - Reel-Stil: Ausreden-Übersetzer mit komplett unscharfem Porträt (grad=false, blur 8); andere persönliche Reels Porträt oben scharf, Text unten.

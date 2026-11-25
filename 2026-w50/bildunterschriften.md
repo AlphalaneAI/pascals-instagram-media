@@ -31,6 +31,8 @@ Teil 2 meiner Serie «Ausreden-Übersetzer». Welche Ausrede kennst du von dir? 
 
 Allgemeine Information, keine Anlageberatung.
 
+📤 Schick das jemandem, der das hören sollte.
+
 #sparen #finanzenschweiz #geldtipps #vorsorge #schweiz
 
 ---
@@ -49,6 +51,8 @@ Welcher Schritt fehlt dir noch? 👇
 
 Allgemeine Information, keine Anlageberatung. Jede Anlage ist mit Risiken verbunden.
 
+📤 Schick das jemandem, der das hören sollte.
+
 #geld #sparen #notgroschen #finanzenschweiz #vermögensaufbau
 
 ---
@@ -62,6 +66,8 @@ Zwei bis drei Ganzkörper-Einheiten pro Woche, Gewichte aufschreiben und lieber 
 Meine Trainings trage ich übrigens im @krafttagebuch ein, das geht direkt nach dem Satz.
 
 Welche Regel fällt dir am schwersten? 👇
+
+📤 Schick das jemandem, der das hören sollte.
 
 #krafttraining #trainingsplan #fitnessalltag #papaleben #krafttagebuch
 
@@ -93,6 +99,8 @@ Für viele reicht das zusammen nicht ganz für den gewohnten Lebensstandard. Den
 
 Allgemeine Information, keine Anlageberatung.
 
+📤 Schick das jemandem, der das hören sollte.
+
 #vorsorge #3säulen #ahv #pensionskasse #säule3a
 
 ---
@@ -108,6 +116,8 @@ Allgemeine Information, keine Anlageberatung.
 KI ersetzt nicht das Denken. Sie spart dir die Zeit dafür.
 
 Welche Aufgabe würdest du abgeben? 👇
+
+📤 Schick das jemandem, der das hören sollte.
 
 #ki #chatgpt #familienalltag #papaleben #produktivität
 
@@ -125,6 +135,8 @@ Teil 3 meiner Serie «Ausreden-Übersetzer». Welche soll ich als Nächstes übe
 
 Allgemeine Information, keine Anlageberatung.
 
+📤 Schick das jemandem, der das hören sollte.
+
 #vorsorge #finanzenschweiz #jahresende #geldtipps #schweiz
 
 ---
@@ -139,6 +151,8 @@ Geniess das Essen und plan das nächste Training gleich ein. Im @krafttagebuch g
 
 Wie hältst du es mit Training über die Festtage? 👇
 
+📤 Schick das jemandem, der das hören sollte.
+
 #festtage #krafttraining #ernährung #fitnessalltag #krafttagebuch
 
 ---
@@ -150,5 +164,7 @@ Bevor wir über Produkte reden, braucht es Klarheit. Das sind die 5 Fragen, die 
 Welche davon kannst du nicht sofort beantworten? Schreib mir die Nummer 👇
 
 Wenn du wissen willst, wo du stehst: Der kostenlose 3-Minuten-Check ist im Link in meiner Bio.
+
+📤 Schick das jemandem, der das hören sollte.
 
 #finanzberatung #vorsorge #finanzenschweiz #bern #freiburg
