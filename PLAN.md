@@ -31,3 +31,8 @@ Serien: «Ausreden-Übersetzer», «Was die Bank dir nicht erklärt» (Fortsetzu
 - Jeden Montagabend prüfen: Ist für die nächsten 7 Tage Content fertig und freigegeben? Wenn nicht: nächste Woche erstellen (tools/reel.py, tools/carousel2.py, tools/story.py, Specs in JJJJ-wKW/spec/), in JJJJ-wKW/ ablegen, pushen und Pascal gesammelt zur Freigabe schicken. Erst nach seinem OK die Veröffentlichungen einplanen.
 - Woche 2: 2026-w50/ (1.–7.12.), Plan-Tabelle in 2026-w50/bildunterschriften.md.
 - Erklärfigur-Posen: assets/figuren/pose_*.png (in Specs als "fig": "<name>").
+
+## Videos von anderen (YouTube usw.)
+- Keine fremden Clips zuschneiden und posten (Urheberrecht, Instagram drosselt wiederverwendete Inhalte).
+- Erlaubt: 1) Pascals eigene Aufnahmen (Webinare, Vorträge, Interviews) zu Reels schneiden, nur Geld/Gesundheit/KI-Allgemeines, keine Alphalane-Werbung. 2) Clips mit freier Lizenz (CC BY) oder Erlaubnis des Creators. 3) Serie «Gelernt aus …»: Kernaussagen eines Videos als eigenes Reel mit Erklärfigur und Quellenhinweis.
+- Pascal schickt Links, wenn ihm etwas begegnet (freiwillig).
