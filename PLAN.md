@@ -20,8 +20,8 @@ Serien: «Ausreden-Übersetzer», «Was die Bank dir nicht erklärt» (Fortsetzu
 - Pascal gibt jede Woche gesammelt frei. Bedarf an Material eine Woche vorher melden, immer optional.
 
 ## Rhythmus
-- Woche 1 (KW 49): 4 Reels (Mo, Di, Mi, Fr 18:30) + 1 Karussell (Do 18:30)
-- Ab Woche 2: Mo/Mi/Fr je 2 Reels (12:00 + 18:30), Di/Do 1 Reel, 1 Karussell, 3 Storys (ohne Sticker). Zeiten nach 2 Wochen anhand der Daten anpassen.
+- Woche 1: 26.–30.11. täglich 18:30 (Do r1, Fr r2, Sa r3, So Karussell, Mo r5)
+- Ab Woche 2 (ab Di 1.12.): Mo/Mi/Fr je 2 Reels (12:00 + 18:30), Di/Do 1 Reel, 1 Karussell, 3 Storys (ohne Sticker). Zeiten nach 2 Wochen anhand der Daten anpassen.
 
 ## Ziele
 10k Follower Ende 2026 unrealistisch (Start 2'244 am 25.11.2026). 100k Ende 2027 ambitioniert.

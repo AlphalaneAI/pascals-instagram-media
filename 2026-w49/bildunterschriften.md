@@ -1,10 +1,10 @@
-# Woche 1 – Bildunterschriften (30.11. – 4.12.)
+# Woche 1 – Bildunterschriften (26.11. – 30.11.)
 
 Alle Reels: Test-Reel, nicht im Profilraster. Uhrzeit vorerst 18:30, wird nach den ersten Daten angepasst.
 
 ---
 
-## Mo 30.11. – Reel «Ausreden-Übersetzer #1» (r1.mp4)
+## Do 26.11. – Reel «Ausreden-Übersetzer #1» (r1.mp4)
 
 «Ich bin noch zu jung für Vorsorge.» Kennst du den Satz? Vielleicht sogar von dir selbst. 🙈
 
@@ -20,7 +20,7 @@ Allgemeine Information, keine Anlageberatung.
 
 ---
 
-## Di 1.12. – Reel «Was die Bank dir nicht erklärt · Teil 2» (r2.mp4)
+## Fr 27.11. – Reel «Was die Bank dir nicht erklärt · Teil 2» (r2.mp4)
 
 Über 400'000 Aufrufe hatte mein Reel darüber, wie Banken Geld erschaffen. Hier ist die Fortsetzung, die noch gefehlt hat: Was heisst das für dein Erspartes? 💭
 
@@ -34,7 +34,7 @@ Allgemeine Information, keine Anlageberatung.
 
 ---
 
-## Mi 2.12. – Reel «Gym × Geld» (r3.mp4)
+## Sa 28.11. – Reel «Gym × Geld» (r3.mp4)
 
 Das Gym hat mir mehr über Vermögensaufbau beigebracht als jedes Finanzbuch. 🏋️
 
@@ -48,7 +48,7 @@ Welche Parallele siehst du noch? 👇
 
 ---
 
-## Do 3.12. – Karussell «Was ich mit 31 weiss» (k1–k7.jpg, im Profilraster)
+## So 29.11. – Karussell «Was ich mit 31 weiss» (k1–k7.jpg, im Profilraster)
 
 Vor ein paar Tagen bin ich 31 geworden. Das sind die 5 Dinge, die ich gern schon mit 21 gewusst hätte. 🤍
 
@@ -60,7 +60,7 @@ Welche Erkenntnis hättest du gern früher gehabt? Ich lese alles 👇
 
 ---
 
-## Fr 4.12. – Reel «Tagsüber Papa, abends Entwickler» (r5.mp4)
+## Mo 30.11. – Reel «Tagsüber Papa, abends Entwickler» (r5.mp4)
 
 Ich bin kein Programmierer. Trotzdem habe ich abends nach Feierabend eine App gebaut, mit KI. 👨‍💻
 
