@@ -12,8 +12,8 @@ Serien: «Ausreden-Übersetzer», «Was die Bank dir nicht erklärt» (Fortsetzu
 
 ## Regeln
 - Teilen-Aufruf («Schick das jemandem, der …») nur wo er natürlich passt, nicht in jedem Beitrag.
-- Reels: als Test-Reel (trial_params SS_PERFORMANCE), share_to_feed=false. Nie im Profilraster.
-- Karussells: im Raster, erstes Bild immer Pascal (echtes Foto) oder Persönliches; Folgebilder Text/Erklärfigur. Ohne passendes Foto: kein Karussell.
+- Reels: ab 27.11. als NORMALE Reels (share_to_feed=true, keine trial_params), erscheinen im Reels-Tab und im Profilraster (Pascals Entscheid vom 26.11.).
+- Karussells: im Raster, weiterhin erstes Bild immer Pascal (echtes Foto) oder Persönliches; Folgebilder Text/Erklärfigur. Ohne passendes Foto: kein Karussell.
 - Reel-Stil: Ausreden-Übersetzer mit komplett unscharfem Porträt (grad=false, blur 8); andere persönliche Reels Porträt oben scharf, Text unten.
 - Musik: selbst erzeugt (tools/music.py, Stile calm/lofi/lift/tech), abwechseln.
 - Finanzinhalte: keine Rendite-/Ertragsversprechen, kein «garantiert»/«risikolos», Hinweis «Allgemeine Information, keine Anlageberatung». Schweizer Rechtschreibung (ss). Keine Alphalane-Werbung auf diesem Profil. Krafttagebuch: @krafttagebuch in Fitness-Captions.

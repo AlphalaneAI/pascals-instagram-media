@@ -1,6 +1,6 @@
 # Woche 2 – Plan und Bildunterschriften (1.12. – 7.12.)
 
-Alle Reels: Test-Reel, nicht im Profilraster. Karussell im Raster. Storys ohne Sticker.
+Alle Reels ab 27.11.: normale Reels, im Reels-Tab und im Profilraster.
 
 | Datum | Zeit | Datei | Typ |
 |---|---|---|---|

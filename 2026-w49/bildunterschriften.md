@@ -1,6 +1,6 @@
 # Woche 1 – Bildunterschriften (26.11. – 30.11.)
 
-Alle Reels: Test-Reel, nicht im Profilraster. Uhrzeit vorerst 18:30, wird nach den ersten Daten angepasst.
+Alle Reels ab 27.11.: normale Reels, im Reels-Tab und im Profilraster.
 
 ---
 
