@@ -36,3 +36,8 @@ Serien: «Ausreden-Übersetzer», «Was die Bank dir nicht erklärt» (Fortsetzu
 - Keine fremden Clips zuschneiden und posten (Urheberrecht, Instagram drosselt wiederverwendete Inhalte).
 - Erlaubt: 1) Pascals eigene Aufnahmen (Webinare, Vorträge, Interviews) zu Reels schneiden, nur Geld/Gesundheit/KI-Allgemeines, keine Alphalane-Werbung. 2) Clips mit freier Lizenz (CC BY) oder Erlaubnis des Creators. 3) Serie «Gelernt aus …»: Kernaussagen eines Videos als eigenes Reel mit Erklärfigur und Quellenhinweis.
 - Pascal schickt Links, wenn ihm etwas begegnet (freiwillig).
+
+## Technik Veröffentlichung (getestet 26.11.2026)
+- Basis-URL funktioniert: https://raw.githubusercontent.com/AlphalaneAI/pascals-instagram-media/claude/clever-hopper-ecg49y (Instagram akzeptiert die MP4 trotz octet-stream).
+- Windsor execute_action create_video_post kann nach 60 s mit «timed out» enden, obwohl das Reel veröffentlicht wird. Vor einem erneuten Versuch immer per get_data (media_id, timestamp, media_caption, last_2dT, ohne force_refresh) prüfen, ob der Beitrag schon da ist. Sonst entstehen Duplikate.
+- 26.11.: Reel 1 veröffentlicht, https://www.instagram.com/reel/DgNpbRbxZOQ/
