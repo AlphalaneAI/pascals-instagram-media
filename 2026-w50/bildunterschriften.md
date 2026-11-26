@@ -29,8 +29,6 @@ Dabei geht es nicht um den grossen Betrag, sondern darum, dass überhaupt etwas 
 
 Teil 2 meiner Serie «Ausreden-Übersetzer». Welche Ausrede kennst du von dir? 👇
 
-Allgemeine Information, keine Anlageberatung.
-
 📤 Schick das jemandem, der das hören sollte.
 
 #sparen #finanzenschweiz #geldtipps #vorsorge #schweiz
@@ -128,8 +126,6 @@ Oft heisst er: «Ich habe Angst vor dem, was ich sehe, wenn ich hinschaue.»
 Du musst im Dezember nichts lösen. Nur einmal hinschauen.
 
 Teil 3 meiner Serie «Ausreden-Übersetzer». Welche soll ich als Nächstes übersetzen? 👇
-
-Allgemeine Information, keine Anlageberatung.
 
 📤 Schick das jemandem, der das hören sollte.
 

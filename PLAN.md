@@ -16,7 +16,7 @@ Serien: «Ausreden-Übersetzer», «Was die Bank dir nicht erklärt» (Fortsetzu
 - Karussells: im Raster, weiterhin erstes Bild immer Pascal (echtes Foto) oder Persönliches; Folgebilder Text/Erklärfigur. Ohne passendes Foto: kein Karussell.
 - Reel-Stil: Ausreden-Übersetzer mit komplett unscharfem Porträt (grad=false, blur 8); andere persönliche Reels Porträt oben scharf, Text unten.
 - Musik: selbst erzeugt (tools/music.py, Stile calm/lofi/lift/tech), abwechseln.
-- Finanzinhalte: keine Rendite-/Ertragsversprechen, kein «garantiert»/«risikolos», Hinweis «Allgemeine Information, keine Anlageberatung». Schweizer Rechtschreibung (ss). Keine Alphalane-Werbung auf diesem Profil. Krafttagebuch: @krafttagebuch in Fitness-Captions.
+- Finanzinhalte: keine Rendite-/Ertragsversprechen, kein «garantiert»/«risikolos», Hinweis «Allgemeine Information, keine Anlageberatung» nur bei konkreten Geld-Schritten und Vorsorge-Erklärungen, und nur in der Bildunterschrift (nicht im Video). Bei Mindset-Reels (z. B. Ausreden-Übersetzer), Gesundheit, KI, Familie weglassen (Pascals Entscheid 26.11.). Schweizer Rechtschreibung (ss). Keine Alphalane-Werbung auf diesem Profil. Krafttagebuch: @krafttagebuch in Fitness-Captions.
 - Nur belegte Fakten über Pascal. Unsichere Aussagen vorher fragen.
 - Pascal gibt jede Woche gesammelt frei. Bedarf an Material eine Woche vorher melden, immer optional.
 
