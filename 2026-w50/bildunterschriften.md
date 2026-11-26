@@ -4,18 +4,18 @@ Alle Reels ab 27.11.: normale Reels, im Reels-Tab und im Profilraster.
 
 | Datum | Zeit | Datei | Typ |
 |---|---|---|---|
-| Di 1.12. | 12:00 | story-di.jpg | Story |
-| Di 1.12. | 18:30 | r1.mp4 | Reel |
-| Mi 2.12. | 12:00 | r2.mp4 | Reel |
-| Mi 2.12. | 18:30 | r3.mp4 | Reel |
-| Do 3.12. | 12:00 | story-do.jpg | Story |
-| Do 3.12. | 18:30 | r4.mp4 | Reel |
-| Fr 4.12. | 12:00 | r5.mp4 | Reel |
-| Fr 4.12. | 18:30 | r6.mp4 | Reel |
-| Sa 5.12. | 18:30 | story-sa.jpg | Story |
-| So 6.12. | 18:30 | karussell-1…7.jpg | Karussell |
-| Mo 7.12. | 12:00 | r7.mp4 | Reel |
-| Mo 7.12. | 18:30 | r8.mp4 | Reel |
+| Di 1.12. | 13:33 | story-di.jpg | Story |
+| Di 1.12. | 19:33 | r1.mp4 | Reel |
+| Mi 2.12. | 13:33 | r2.mp4 | Reel |
+| Mi 2.12. | 19:33 | r3.mp4 | Reel |
+| Do 3.12. | 13:33 | story-do.jpg | Story |
+| Do 3.12. | 19:33 | r4.mp4 | Reel |
+| Fr 4.12. | 13:33 | r5.mp4 | Reel |
+| Fr 4.12. | 19:33 | r6.mp4 | Reel |
+| Sa 5.12. | 19:33 | story-sa.jpg | Story |
+| So 6.12. | 19:33 | karussell-1…7.jpg | Karussell |
+| Mo 7.12. | 13:33 | r7.mp4 | Reel |
+| Mo 7.12. | 19:33 | r8.mp4 | Reel |
 
 ---
 

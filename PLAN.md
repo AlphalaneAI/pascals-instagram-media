@@ -21,8 +21,8 @@ Serien: «Ausreden-Übersetzer», «Was die Bank dir nicht erklärt» (Fortsetzu
 - Pascal gibt jede Woche gesammelt frei. Bedarf an Material eine Woche vorher melden, immer optional.
 
 ## Rhythmus
-- Woche 1: 26.–30.11. täglich 18:30 (Do r1, Fr r2, Sa r3, So Karussell, Mo r5)
-- Ab Woche 2 (ab Di 1.12.): Mo/Mi/Fr je 2 Reels (12:00 + 18:30), Di/Do 1 Reel, 1 Karussell, 3 Storys (ohne Sticker). Zeiten nach 2 Wochen anhand der Daten anpassen.
+- Woche 1: 26.–30.11. täglich 19:33 (26.11. noch 18:30) (Do r1, Fr r2, Sa r3, So Karussell, Mo r5)
+- Ab Woche 2 (ab Di 1.12.): Mo/Mi/Fr je 2 Reels (13:33 + 19:33), Di/Do 1 Reel, 1 Karussell, 3 Storys (ohne Sticker). Zeiten nach 2 Wochen anhand der Daten anpassen.
 
 ## Ziele
 10k Follower Ende 2026 unrealistisch (Start 2'244 am 25.11.2026). 100k Ende 2027 ambitioniert.
@@ -41,3 +41,7 @@ Serien: «Ausreden-Übersetzer», «Was die Bank dir nicht erklärt» (Fortsetzu
 - Basis-URL funktioniert: https://raw.githubusercontent.com/AlphalaneAI/pascals-instagram-media/claude/clever-hopper-ecg49y (Instagram akzeptiert die MP4 trotz octet-stream).
 - Windsor execute_action create_video_post kann nach 60 s mit «timed out» enden, obwohl das Reel veröffentlicht wird. Vor einem erneuten Versuch immer per get_data (media_id, timestamp, media_caption, last_2dT, ohne force_refresh) prüfen, ob der Beitrag schon da ist. Sonst entstehen Duplikate.
 - 26.11.: Reel 1 veröffentlicht, https://www.instagram.com/reel/DgNpbRbxZOQ/
+
+## Standard-Zeiten (ab 27.11.2026, Europe/Zurich)
+- Mittag 13:33, Abend 19:33. Nicht mehr 12:00/18:30.
+- Grund: die 4 Konten sollen nicht gleichzeitig posten (Moonshine 11:56 und 18:26, Alphalane 20:41, Krafttagebuch 10:43 und 15:47), mindestens 1 Stunde Abstand.
