@@ -45,3 +45,10 @@ Serien: «Ausreden-Übersetzer», «Was die Bank dir nicht erklärt» (Fortsetzu
 ## Standard-Zeiten (ab 27.11.2026, Europe/Zurich)
 - Mittag 13:33, Abend 19:33. Nicht mehr 12:00/18:30.
 - Grund: die 4 Konten sollen nicht gleichzeitig posten (Moonshine 11:56 und 18:26, Alphalane 20:41, Krafttagebuch 10:43 und 15:47), mindestens 1 Stunde Abstand.
+
+## Facebook (ab 27.11.2026, von Pascal bestätigt)
+- Jedes Reel nach Instagram zusätzlich als Reel auf die Facebook-Seite «Pascal Schwab Solutions»: Windsor connector facebook_organic, account 247693705095520, action create_reel, gleiche video_url, description = gleiche Caption, aber «Link in Bio» (bzw. «Link in der Bio»/«Link in meiner Bio») durch https://moonshine-solutions.com/links ersetzen.
+- Nur Reels, keine Storys, keine Karussells.
+- Facebook-Vorgaben: 3–90 s, 9:16, mind. 540×960, 24–60 fps. Reels daher höchstens 90 s lang machen.
+- Bei Fehler oder Timeout auf Facebook nicht wiederholen, nur melden. Meldung an Pascal nennt Instagram und Facebook.
+- Jede neue Reel-Aufgabe gleich mit diesem Facebook-Schritt anlegen.
