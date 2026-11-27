@@ -41,6 +41,7 @@ Serien: «Ausreden-Übersetzer», «Was die Bank dir nicht erklärt» (Fortsetzu
 - Basis-URL funktioniert: https://raw.githubusercontent.com/AlphalaneAI/pascals-instagram-media/claude/clever-hopper-ecg49y (Instagram akzeptiert die MP4 trotz octet-stream).
 - Windsor execute_action create_video_post kann nach 60 s mit «timed out» enden, obwohl das Reel veröffentlicht wird. Vor einem erneuten Versuch immer per get_data (media_id, timestamp, media_caption, last_2dT, ohne force_refresh) prüfen, ob der Beitrag schon da ist. Sonst entstehen Duplikate.
 - 26.11.: Reel 1 veröffentlicht, https://www.instagram.com/reel/DgNpbRbxZOQ/
+- 27.11.: Reel «Bank Teil 2» IG https://www.instagram.com/reel/DgQVe9xu1oq/ + Facebook Post 247693705095520_122337473762224192 (IG-Aufruf wieder mit Timeout, trotzdem online)
 
 ## Standard-Zeiten (ab 27.11.2026, Europe/Zurich)
 - Mittag 13:33, Abend 19:33. Nicht mehr 12:00/18:30.
