@@ -56,6 +56,6 @@ Serien: «Ausreden-Übersetzer», «Was die Bank dir nicht erklärt» (Fortsetzu
 ## Format «Durchhalte-Köder» (von Pascal am 27.11. gewünscht, einmal einplanen)
 - Vorbild: @trainwithsarahg, Reel Dfo4ATyOlTT. Ruhiger Clip (Foto von Pascal mit langsamem Zoom), grosser Text in 3 Schritten, ca. 10 s, ohne Ton.
 - Referenz-Umsetzung: instagram/build_durchhalte.js im Repo alphalaneai/moonshine-solutions, Branch claude/beautiful-noether-cqkrlq. Hier mit tools/reel.py umsetzbar (3 Slides, je ca. 3 s, keine Musik).
-- Text-Vorschlag für @pascals.solutions (ehrlich statt erfundener Zahlen, der Gag ist die kleine Differenz): «Gib nicht auf.» → «Ich habe mit 2'244 Followern angefangen.» → «Heute habe ich [aktuelle Zahl].» Zahl am Erstellungstag per Daten prüfen. Pascal entscheidet bei der Freigabe, ob stattdessen die Original-Variante mit Fantasie-Zahlen kommt.
+- Text (Pascals Entscheid 27.11., genau wie das Vorbild, bewusst als Joke): «Gib deine Träume nicht auf.» → «Ich habe mit 120 Followern angefangen.» → «Heute habe ich 2 Millionen.» Ziel: Leute gehen aufs Profil, um es zu prüfen. Keine echten Zahlen einsetzen.
 - Caption löst den Gag auf, z. B. «Wenn ich dich erwischt habe, habe ich einen Follow verdient 😉 Ja, das war ein Joke, schau ruhig in mein Profil.» Keine Rendite- oder Erfolgsaussagen.
 - Einplanen in Woche 3 (KW 51), Termin nach Plan.
