@@ -59,3 +59,9 @@ Serien: «Ausreden-Übersetzer», «Was die Bank dir nicht erklärt» (Fortsetzu
 - Text (Pascals Entscheid 27.11., genau wie das Vorbild, bewusst als Joke): «Gib deine Träume nicht auf.» → «Ich habe mit 120 Followern angefangen.» → «Heute habe ich 2 Millionen.» Ziel: Leute gehen aufs Profil, um es zu prüfen. Keine echten Zahlen einsetzen.
 - Caption löst den Gag auf, z. B. «Wenn ich dich erwischt habe, habe ich einen Follow verdient 😉 Ja, das war ein Joke, schau ruhig in mein Profil.» Keine Rendite- oder Erfolgsaussagen.
 - Einplanen in Woche 3 (KW 51), Termin nach Plan.
+
+## Weitere Medienquellen (von Pascal am 27.11. freigegeben)
+- Google Drive «Moonshine Instagram» (gleiche Ablage wie @moonshine.solutions): Hauptordner 1SkJh5qCAUpiMofbLO43gB16xgLd03h0n, Fotos 14W39G8MmkROjlKqtguN7udJlYBzrGih_, Videos 1gOLSHnTERnIAycrHV3CVYVwciyrCg7q- (5 Clips, MOV/MP4, 13–85 MB, z. B. Gym, SUP, Drohne).
+- Darf für @pascals.solutions genutzt werden, z. B. als Hintergrund für «Durchhalte-Köder» (Video statt Foto, ohne Ton).
+- Nicht denselben Ausschnitt verwenden, den Moonshine kurz davor gepostet hat (in deren Repo instagram/posted.json bzw. build_video_reel.js prüfen).
+- Grosse Videos vor dem Schnitt per ffmpeg auf 1080×1920, 30 fps, ≤ 90 s verkleinern.
