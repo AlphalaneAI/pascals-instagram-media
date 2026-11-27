@@ -52,3 +52,10 @@ Serien: «Ausreden-Übersetzer», «Was die Bank dir nicht erklärt» (Fortsetzu
 - Facebook-Vorgaben: 3–90 s, 9:16, mind. 540×960, 24–60 fps. Reels daher höchstens 90 s lang machen.
 - Bei Fehler oder Timeout auf Facebook nicht wiederholen, nur melden. Meldung an Pascal nennt Instagram und Facebook.
 - Jede neue Reel-Aufgabe gleich mit diesem Facebook-Schritt anlegen.
+
+## Format «Durchhalte-Köder» (von Pascal am 27.11. gewünscht, einmal einplanen)
+- Vorbild: @trainwithsarahg, Reel Dfo4ATyOlTT. Ruhiger Clip (Foto von Pascal mit langsamem Zoom), grosser Text in 3 Schritten, ca. 10 s, ohne Ton.
+- Referenz-Umsetzung: instagram/build_durchhalte.js im Repo alphalaneai/moonshine-solutions, Branch claude/beautiful-noether-cqkrlq. Hier mit tools/reel.py umsetzbar (3 Slides, je ca. 3 s, keine Musik).
+- Text-Vorschlag für @pascals.solutions (ehrlich statt erfundener Zahlen, der Gag ist die kleine Differenz): «Gib nicht auf.» → «Ich habe mit 2'244 Followern angefangen.» → «Heute habe ich [aktuelle Zahl].» Zahl am Erstellungstag per Daten prüfen. Pascal entscheidet bei der Freigabe, ob stattdessen die Original-Variante mit Fantasie-Zahlen kommt.
+- Caption löst den Gag auf, z. B. «Wenn ich dich erwischt habe, habe ich einen Follow verdient 😉 Ja, das war ein Joke, schau ruhig in mein Profil.» Keine Rendite- oder Erfolgsaussagen.
+- Einplanen in Woche 3 (KW 51), Termin nach Plan.
